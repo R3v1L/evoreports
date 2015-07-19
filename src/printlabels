@@ -1,0 +1,3 @@
+#!/bin/sh
+cd /usr/local/facturalux-lite/labels/
+python printlabels.py $*

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<evoreport type="report">
+
+	<name>EVOReports default report</name>
+	<provider>EVOReports</provider>
+	<model>Default</model>
+	
+    <media size="A4" orientation="portrait" units="mm">
+		<margins top="8" left="0" right="0" bottom="8" />
+    </media>
+    
+    <styles>
+    	<style name="">
+    	</style>
+    </styles>
+    
+    <header>
+    </header>
+    
+    <body>
+    </body>
+    
+    <footer>
+    </footer>
+</evoreport>

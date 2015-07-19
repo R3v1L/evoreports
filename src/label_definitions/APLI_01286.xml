@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<evoreport type="label" name="APLI Inkjet Laser Copy 52.5x29.7mm 01286" provider="APLI" model="01286">
+    <media size="A4" orientation="portrait" units="mm">
+		<labels horiz="4" vert="10" />
+		<margins top="0" left="0" right="0" bottom="0" horiz="0" vert="0" />
+    </media>
+</evoreport>
